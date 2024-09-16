@@ -1,3 +1,4 @@
+*** đây không phải code do mình tự làm, nó là clone không hoàn chỉnh của https://github.com/CryceTruly/trulyexpensesyoutube ***
 hướng dẫn chạy chương trình:
 - dùng pip để install những model và phiên bản cần thiết được lưu trong file API.txt
 - mở thcsdl/settings.py, tìm kiếm phần DATABASES, setup lại phần DATABASES ứng với database mình muốn
